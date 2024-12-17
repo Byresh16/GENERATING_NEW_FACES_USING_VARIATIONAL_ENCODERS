@@ -1,5 +1,4 @@
 # GENERATING_NEW_FACES_USING_VARIATIONAL_ENCODERS
-CelebA Dataset Autoencoder Project
 This project demonstrates the use of an Autoencoder and Variational Autoencoder (VAE) for image reconstruction using the CelebA dataset. The implementation is done using TensorFlow and Keras.
 
 Table of Contents
@@ -153,3 +152,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
